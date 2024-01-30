@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Larrymax\bin\Debug\net7.0\Larrymax.exe
+C:\Users\Admin\Desktop\Larrymax\bin\Debug\net7.0\Larrymax.deps.json
+C:\Users\Admin\Desktop\Larrymax\bin\Debug\net7.0\Larrymax.runtimeconfig.json
+C:\Users\Admin\Desktop\Larrymax\bin\Debug\net7.0\Larrymax.dll
+C:\Users\Admin\Desktop\Larrymax\bin\Debug\net7.0\Larrymax.pdb
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\Larrymax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\Larrymax.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\Larrymax.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\Larrymax.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\Larrymax.dll
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\refint\Larrymax.dll
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\Larrymax.pdb
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\Larrymax.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Larrymax\obj\Debug\net7.0\ref\Larrymax.dll
